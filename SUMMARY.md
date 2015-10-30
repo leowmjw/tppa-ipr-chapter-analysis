@@ -10,7 +10,7 @@
    * {Section F: x }
    * {Section G: x }
    * {Annex }
-* {Section H: Enforcement}
+* [{Section H: Enforcement}]({section_h_enforcement}.md)
 * [Related Treaties Referenced](related_treaties_referenced.md)
    * ILO
 
