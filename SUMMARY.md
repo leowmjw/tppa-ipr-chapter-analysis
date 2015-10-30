@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* TPPA IPR Chapter Analysis (Malaysia)
+* [TPPA IPR Chapter Analysis (Malaysia)](tppa_ipr_chapter_analysis_malaysia.md)
    * Article QQ.A
    * {Section H: Enforcement}
    * {Section A: x }
