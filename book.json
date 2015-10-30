@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "plugin-comment",
-        "bob"
+        "plugin-comment"
     ],
     "pluginsConfig": {}
 }
