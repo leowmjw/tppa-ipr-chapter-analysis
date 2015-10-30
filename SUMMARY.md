@@ -8,8 +8,8 @@
    * {Section D: x }
    * {Section E: x }
    * {Section F: x }
-   * {Annex }
    * {Section G: x }
+   * {Annex }
 * {Section H: Enforcement}
 * [Related Treaties Referenced](related_treaties_referenced.md)
    * ILO
