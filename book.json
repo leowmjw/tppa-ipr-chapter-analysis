@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "https://plugins.gitbook.com/plugin/comment"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
