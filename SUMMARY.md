@@ -11,6 +11,6 @@
    * {Section E: x }
    * {Section F: x }
    * {Section G: x }
-* Related Treaties Referenced
+* [Related Treaties Referenced](related_treaties_referenced.md)
    * ILO
 
