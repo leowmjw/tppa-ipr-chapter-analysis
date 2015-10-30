@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "plugin-comment"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
