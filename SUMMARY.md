@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Chapter QQ: {INTELLECTUAL PROPERTY RIGHTS / INTELLECTUAL PROPERTY}](README.md)
 * [TPPA IPR Chapter Analysis (Malaysia)](tppa_ipr_chapter_analysis_malaysia.md)
    * [{Section A: x }]({section_a_x_}.md)
        * [QQ.A.1](qqa1.md)
