@@ -9,8 +9,8 @@
    * {Section C: x }
    * {Section D: x }
    * {Section E: x }
-   * {Section G: x }
    * {Section F: x }
+   * {Section G: x }
 * [Related Treaties Referenced](related_treaties_referenced.md)
    * ILO
 
