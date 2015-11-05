@@ -10,7 +10,7 @@
    * [{Section F: x }]({section_f_x_}.md)
    * [{Section G: x }]({section_g_x_}.md)
    * [{Section H: Enforcement}]({section_h_enforcement}.md)
-   * {Annex }
+   * [{Annex }](annex-18-C.md)
 * [Related Treaties Referenced](related_treaties_referenced.md)
    * [Berne Convention](berne_convention.md)
    * [Budapest Treaty](budapest_treaty.md)
