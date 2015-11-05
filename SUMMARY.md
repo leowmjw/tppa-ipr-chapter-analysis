@@ -13,7 +13,7 @@
    * [{Section H: Enforcement}]({section_h_enforcement}.md)
    * {Annex }
 * [Related Treaties Referenced](related_treaties_referenced.md)
-   * ILO
+   * [ILO](ilo.md)
    * [TRIPS](trips.md)
    * Berne Convention
    * Budapest Treaty
