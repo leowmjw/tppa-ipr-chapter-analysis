@@ -22,4 +22,5 @@
    * Paris Convention
    * Singapore Treaty
    * UPOV 1991
+   * WCT
 
