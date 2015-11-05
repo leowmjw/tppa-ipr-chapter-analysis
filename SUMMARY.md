@@ -24,5 +24,5 @@
    * [UPOV 1991](upov_1991.md)
    * [WCT](wct.md)
    * [WIPO](wipo.md)
-   * WPPT
+   * [WPPT](wppt.md)
 
