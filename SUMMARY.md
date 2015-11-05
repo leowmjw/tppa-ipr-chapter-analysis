@@ -21,7 +21,7 @@
    * [Madrid Protocol](madrid_protocol.md)
    * [Paris Convention](paris_convention.md)
    * [Singapore Treaty](singapore_treaty.md)
-   * UPOV 1991
+   * [UPOV 1991](upov_1991.md)
    * WCT
    * WIPO
    * WPPT
