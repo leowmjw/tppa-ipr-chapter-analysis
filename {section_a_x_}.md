@@ -42,7 +42,9 @@ Each Party shall give effect to the provisions of this Chapter. A Party may, but
 1.	Each Party affirms that it has ratified or acceded to the following agreements:
 
     (a)	Patent Cooperation Treaty (1979);
+    
     (b)	Paris Convention for the Protection of Industrial Property (1967); and
+    
     (c)	Berne Convention for the Protection of Literary and Artistic Works (1971).
 
 2. 	Each Party shall ratify or accede to each of the following agreements, where it is not already a Party to such agreement, by the date of entry into force of this Agreement for the Party concerned:
@@ -68,9 +70,9 @@ Microorganisms for the Purposes of Patent Procedure (1977), as amended in 1980;
 
 
 
+---
 
-
-Article QQ.A.9: {National Treatment}
+## Article QQ.A.9: {National Treatment}
 
 1. 	In respect of all categories of intellectual property covered in this Chapter,3 each Party shall accord to nationals4 of the other Party treatment no less favorable than it accords to its own nationals with regard to the protection5 of such intellectual property rights.
 2. 	With respect to secondary uses of phonograms by means of analog communications and free over-the-air broadcasting and other non-interactive communications to the public, however, a Party may limit the rights of the performers and producers of the other Party to the rights its persons are accorded within the jurisdiction of the other Party.
@@ -90,9 +92,10 @@ trade.
 {For greater certainty}, “matters affecting the use of intellectual property rights covered by this Chapter” in respect of works, performances and phonograms, include any form of payment, such as licensing fees, royalties, equitable remuneration, or levies, in respect of uses that fall under the copyright and related rights in this Chapter.
 
 
+---
 
 
-Article QQ.A.10: {Transparency}
+## Article QQ.A.10: {Transparency}
 
 
 1. 	Further to Article ZZ.2 {Publication} and QQ.H.3.1 {Enforcement Practices With Respect to Intellectual Property Rights}, each Party shall endeavor to make available on the Internet its laws, regulations, procedures and administrative rulings of general application concerning the protection and enforcement of intellectual property rights.
@@ -105,7 +108,9 @@ Article QQ.A.10bis: {Application of Agreement to Existing Subject Matter and Pri
 2. 	Except as provided in Article QQ.G.8 (Berne 18/TRIPS 14.6), a Party shall not be required to restore protection to subject matter that on the date of entry into force of this Agreement has fallen into the public domain in its territory.
 3. 	This Chapter does not give rise to obligations in respect of acts that occurred before the date of entry into force of this Agreement.
 
-Article QQ.A.11: {Exhaustion of IP Rights}
+---
+
+## Article QQ.A.11: {Exhaustion of IP Rights}
 Nothing in this Agreement prevents a Party from determining whether and under what conditions the exhaustion of intellectual property rights applies under its legal system9.
 
 6 For greater certainty, paragraphs 2 and 3 are without prejudice to a Party’s obligations under QQ.C.7 {Electronic Trademarks System}.
