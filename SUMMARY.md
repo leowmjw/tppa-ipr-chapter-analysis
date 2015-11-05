@@ -20,4 +20,5 @@
    * Declaration on TRIPS and Public Health
    * Madrid Protocol
    * Paris Convention
+   * Singapore Treaty
 
