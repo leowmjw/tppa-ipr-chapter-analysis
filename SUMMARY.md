@@ -8,7 +8,7 @@
    * [{Section C: x }]({section_c_x_}.md)
    * [{Section D: x }]({section_d_x_}.md)
    * [{Section E: x }]({section_e_x_}.md)
-   * {Section F: x }
+   * [{Section F: x }]({section_f_x_}.md)
    * {Section G: x }
    * [{Section H: Enforcement}]({section_h_enforcement}.md)
    * {Annex }
