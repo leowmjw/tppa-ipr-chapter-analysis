@@ -6,7 +6,7 @@
        * [QQ.A.1](qqa1.md)
    * [{Section B: x }]({section_b_x_}.md)
    * [{Section C: x }]({section_c_x_}.md)
-   * {Section D: x }
+   * [{Section D: x }]({section_d_x_}.md)
    * {Section E: x }
    * {Section F: x }
    * {Section G: x }
