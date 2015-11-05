@@ -3,7 +3,7 @@
 * [Chapter QQ: {INTELLECTUAL PROPERTY RIGHTS / INTELLECTUAL PROPERTY}](README.md)
 * [TPPA IPR Chapter Analysis (Malaysia)](tppa_ipr_chapter_analysis_malaysia.md)
    * [{Section A: x }]({section_a_x_}.md)
-   * [{Section B: x }]({section_b_x_}.md)
+   * [Section B](section_b.md)
    * [{Section C: x }]({section_c_x_}.md)
    * [{Section D: x }]({section_d_x_}.md)
    * [{Section E: x }]({section_e_x_}.md)
