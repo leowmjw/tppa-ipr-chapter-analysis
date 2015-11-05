@@ -21,4 +21,5 @@
    * Madrid Protocol
    * Paris Convention
    * Singapore Treaty
+   * UPOV 1991
 
