@@ -18,4 +18,5 @@
    * Berne Convention
    * Budapest Treaty
    * Declaration on TRIPS and Public Health
+   * Madrid Protocol
 
