@@ -20,7 +20,7 @@
    * [Declaration on TRIPS and Public Health](declaration_on_trips_and_public_health.md)
    * [Madrid Protocol](madrid_protocol.md)
    * [Paris Convention](paris_convention.md)
-   * Singapore Treaty
+   * [Singapore Treaty](singapore_treaty.md)
    * UPOV 1991
    * WCT
    * WIPO
