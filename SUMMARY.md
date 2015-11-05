@@ -17,7 +17,7 @@
    * [TRIPS](trips.md)
    * [Berne Convention](berne_convention.md)
    * [Budapest Treaty](budapest_treaty.md)
-   * Declaration on TRIPS and Public Health
+   * [Declaration on TRIPS and Public Health](declaration_on_trips_and_public_health.md)
    * Madrid Protocol
    * Paris Convention
    * Singapore Treaty
