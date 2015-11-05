@@ -19,7 +19,7 @@
    * [Budapest Treaty](budapest_treaty.md)
    * [Declaration on TRIPS and Public Health](declaration_on_trips_and_public_health.md)
    * [Madrid Protocol](madrid_protocol.md)
-   * Paris Convention
+   * [Paris Convention](paris_convention.md)
    * Singapore Treaty
    * UPOV 1991
    * WCT
