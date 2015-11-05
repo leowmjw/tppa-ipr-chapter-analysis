@@ -13,8 +13,6 @@
    * [{Section H: Enforcement}]({section_h_enforcement}.md)
    * {Annex }
 * [Related Treaties Referenced](related_treaties_referenced.md)
-   * [ILO](ilo.md)
-   * [TRIPS](trips.md)
    * [Berne Convention](berne_convention.md)
    * [Budapest Treaty](budapest_treaty.md)
    * [Declaration on TRIPS and Public Health](declaration_on_trips_and_public_health.md)
@@ -25,4 +23,6 @@
    * [WCT](wct.md)
    * [WIPO](wipo.md)
    * [WPPT](wppt.md)
+   * [ILO](ilo.md)
+   * [TRIPS](trips.md)
 
