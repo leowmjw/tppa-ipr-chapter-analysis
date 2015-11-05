@@ -23,6 +23,6 @@
    * [Singapore Treaty](singapore_treaty.md)
    * [UPOV 1991](upov_1991.md)
    * [WCT](wct.md)
-   * WIPO
+   * [WIPO](wipo.md)
    * WPPT
 
