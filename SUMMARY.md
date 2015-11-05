@@ -9,7 +9,7 @@
    * [{Section D: x }]({section_d_x_}.md)
    * [{Section E: x }]({section_e_x_}.md)
    * [{Section F: x }]({section_f_x_}.md)
-   * {Section G: x }
+   * [{Section G: x }]({section_g_x_}.md)
    * [{Section H: Enforcement}]({section_h_enforcement}.md)
    * {Annex }
 * [Related Treaties Referenced](related_treaties_referenced.md)
