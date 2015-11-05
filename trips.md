@@ -271,9 +271,9 @@ Members agree to provide protection to the layout-designs (topographies) of inte
 
 Article 36
 Scope of the Protection
-Subject to the provisions of paragraph 1 of Article 37, Members shall consider unlawful the following acts if performed without the authorization of the right holder: (9) importing, selling, or otherwise distributing for commercial purposes a protected layout-design, an integrated circuit in which a protected layout-design is incorporated, or an article incorporating such an integrated circuit only in so far as it continues to contain an unlawfully reproduced layout-design.[^2]
+Subject to the provisions of paragraph 1 of Article 37, Members shall consider unlawful the following acts if performed without the authorization of the right holder: (9) importing, selling, or otherwise distributing for commercial purposes a protected layout-design, an integrated circuit in which a protected layout-design is incorporated, or an article incorporating such an integrated circuit only in so far as it continues to contain an unlawfully reproduced layout-design.[^bob]
 
-[^2]  this is a fotnote. 
+[^bob]  this is a fotnote. 
 
 Article 37 
 Acts Not Requiring the Authorization of the Right Holder
