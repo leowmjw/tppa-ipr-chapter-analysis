@@ -22,7 +22,7 @@
    * [Paris Convention](paris_convention.md)
    * [Singapore Treaty](singapore_treaty.md)
    * [UPOV 1991](upov_1991.md)
-   * WCT
+   * [WCT](wct.md)
    * WIPO
    * WPPT
 
