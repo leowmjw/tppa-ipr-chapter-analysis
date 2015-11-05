@@ -4,7 +4,7 @@
 * [TPPA IPR Chapter Analysis (Malaysia)](tppa_ipr_chapter_analysis_malaysia.md)
    * [{Section A: x }]({section_a_x_}.md)
        * [QQ.A.1](qqa1.md)
-   * {Section B: x }
+   * [{Section B: x }]({section_b_x_}.md)
    * {Section C: x }
    * {Section D: x }
    * {Section E: x }
