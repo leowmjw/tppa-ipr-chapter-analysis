@@ -11,7 +11,7 @@
 
 (3) No time limit shall be fixed for requesting the cancellation or the prohibition of the use of marks registered or used in bad faith.
 
-
+...
 
 ## Article 10bis: Unfair Competition
 
