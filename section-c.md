@@ -32,15 +32,9 @@ A Party may provide limited exceptions to the rights conferred by a trademark, s
 
 2. [Article 6bis](./section-c/references.md) of the Paris Convention shall apply, mutatis mutandis, to goods or services that are not identical or similar to those identified by a well-known trademark,[^13] whether registered or not, provided that use of that trademark in relation to those goods or services would indicate a connection between those goods or services and the owner of the trademark, and provided that the interests of the owner of the trademark are likely to be damaged by such use.
 
-3. Each Party recognises the importance of the Joint Recommendation Concerning Provisions on the Protection of Well-Known Marks as adopted by the Assembly of the Paris Union for the Protection of Industrial Property and the General Assembly of WIPO at the Thirty-Fourth Series of Meetings of the Assemblies of the
-Member States of WIPO September 20 to 29, 1999.
+3. Each Party recognises the importance of the Joint Recommendation Concerning Provisions on the Protection of Well-Known Marks as adopted by the Assembly of the Paris Union for the Protection of Industrial Property and the General Assembly of WIPO at the Thirty-Fourth Series of Meetings of the Assemblies of the Member States of WIPO September 20 to 29, 1999.
 
-4. Each Party shall provide for appropriate measures to refuse the application or
-cancel the registration and prohibit the use of a trademark that is identical or similar to
-a well-known trademark,[^14] for identical or similar goods or services, if the use of that
-trademark is likely to cause confusion with the prior well-known trademark. A Party
-may also provide such measures including in cases in which the subsequent trademark
-is likely to deceive.
+4. Each Party shall provide for appropriate measures to refuse the application or cancel the registration and prohibit the use of a trademark that is identical or similar to a well-known trademark,[^14] for identical or similar goods or services, if the use of that trademark is likely to cause confusion with the prior well-known trademark. A Party may also provide such measures including in cases in which the subsequent trademark is likely to deceive.
 
 ## Article 18.23: Procedural Aspects of Examination, Opposition and Cancellation
 
