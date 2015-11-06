@@ -54,16 +54,6 @@ Each Party shall provide a system for the examination and registration of tradem
 
     (d) requiring administrative decisions in opposition and cancellation proceedings to be reasoned and in writing, which may be provided by electronic means.
 
-===
-
-[^13] In determining whether a trademark is well-known in a Party, that Party need not require that the reputation of the trademark extend beyond the sector of the public that normally deals with the relevant goods or services.
- 
-[^14] The Parties understand that a well-known trademark is one that was already well-known before, as determined by a Party, the application for, registration of or use of the first-mentioned trademark.
-
-[^15] For greater certainty, cancellation for purposes of this Section may be implemented through nullification or revocation proceedings.
-
----
-
 ## Article 18.24: Electronic Trademarks System
 
 Each Party shall provide:
@@ -84,19 +74,28 @@ Each Party shall provide that:
 
 ===
 
+[^13] In determining whether a trademark is well-known in a Party, that Party need not require that the reputation of the trademark extend beyond the sector of the public that normally deals with the relevant goods or services.
+ 
+[^14] The Parties understand that a well-known trademark is one that was already well-known before, as determined by a Party, the application for, registration of or use of the first-mentioned trademark.
+
+[^15] For greater certainty, cancellation for purposes of this Section may be implemented through nullification or revocation proceedings.
+
 [^16] A Party that relies on translations of the Nice Classification shall follow updated versions of the Nice Classification to the extent that official translations have been issued and published.
 
 ---
 
-Article 18.26: Term of Protection for Trademarks
-Each Party shall provide that initial registration and each renewal of
-registration of a trademark is for a term of no less than 10 years.
-Article 18.27: Non-Recordal of a Licence
+## Article 18.26: Term of Protection for Trademarks
+
+Each Party shall provide that initial registration and each renewal of registration of a trademark is for a term of no less than 10 years.
+
+## Article 18.27: Non-Recordal of a Licence
+
 No Party shall require recordal of trademark licences:
-(a) to establish the validity of the licence; or
-(b) as a condition for use of a trademark by a licensee to be deemed to
-constitute use by the holder in a proceeding that relates to the
-acquisition, maintenance or enforcement of trademarks.
+
+    (a) to establish the validity of the licence; or
+    
+    (b) as a condition for use of a trademark by a licensee to be deemed to constitute use by the holder in a proceeding that relates to the acquisition, maintenance or enforcement of trademarks.
+    
 Article 18.28: Domain Names
 1. In connection with each Party’s system for the management of its countrycode
 top-level domain (ccTLD) domain names, the following shall be available:
