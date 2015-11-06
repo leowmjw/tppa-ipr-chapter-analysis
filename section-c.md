@@ -10,29 +10,19 @@ Each Party shall provide that trademarks include collective marks and certificat
 
 ## Article 18.20: Use of Identical or Similar Signs
 
-Each Party shall provide that the owner of a registered trademark has the exclusive right to prevent third parties that do not have the owner’s consent from using in the course of trade identical or similar signs, including subsequent geographical indications,[^11],[^12] for goods or services that are related to those goods or
-services in respect of which the owner’s trademark is registered, where such use
-would result in a likelihood of confusion. In the case of the use of an identical sign
-for identical goods or services, a likelihood of confusion shall be presumed.
-Article 18.21: Exceptions
-A Party may provide limited exceptions to the rights conferred by a trademark,
-such as fair use of descriptive terms, provided that those exceptions take account of
-the legitimate interest of the owner of the trademark and of third parties.
+Each Party shall provide that the owner of a registered trademark has the exclusive right to prevent third parties that do not have the owner’s consent from using in the course of trade identical or similar signs, including subsequent geographical indications,[^11],[^12] for goods or services that are related to those goods or services in respect of which the owner’s trademark is registered, where such use would result in a likelihood of confusion. In the case of the use of an identical sign for identical goods or services, a likelihood of confusion shall be presumed.
+
+## Article 18.21: Exceptions
+
+A Party may provide limited exceptions to the rights conferred by a trademark, such as fair use of descriptive terms, provided that those exceptions take account of the legitimate interest of the owner of the trademark and of third parties.
 
 ---
 
 [^10] Consistent with the definition of a geographical indication in [Article 18.1](./section-a.md) (Definitions), any sign or combination of signs shall be eligible for protection under one or more of the legal means for protecting geographical indications, or a combination of such means.
 
-11 For greater certainty, the exclusive right in this Article applies to cases of unauthorised use of
-geographical indications with goods for which the trademark is registered, in cases in which the use of
-that geographical indication in the course of trade would result in a likelihood of confusion as to the
-source of the goods.
-12 For greater certainty, the Parties understand that this Article should not be interpreted to affect their
-rights and obligations under Article 22 and Article 23 of the TRIPS Agreement.
-Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
-and Consistency
-Subject to Authentication of English, Spanish and French Versions
-18 – 11
+[^11] For greater certainty, the exclusive right in this Article applies to cases of  unauthorised use of geographical indications with goods for which the trademark is registered, in cases in which the use of that geographical indication in the course of trade would result in a likelihood of confusion as to the source of the goods.
+
+[^12] For greater certainty, the Parties understand that this Article should not be interpreted to affect their rights and obligations under Article 22 and Article 23 of the [TRIPS](./trips.md) Agreement.
 
 ---
 
