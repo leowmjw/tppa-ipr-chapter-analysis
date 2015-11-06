@@ -2,39 +2,38 @@
 
 [QQ.A.1](QQ.A.1) Sections 1 through 7 of Part II of the TRIPS Agreement
 
-Section 1: copyright and related rights back to top
+# Section 1: Copyright and related rights 
 
-Article 9 
-Relation to the Berne Convention
-1. Members shall comply with Articles 1 through 21 of the Berne Convention (1971) and the Appendix thereto. However, Members shall not have rights or obligations under this Agreement in respect of the rights conferred under Article 6bis of that Convention or of the rights derived therefrom.
+## Article 9:  Relation to the Berne Convention
+
+1. Members shall comply with Articles 1 through 21 of the Berne Convention (1971) and the Appendix thereto. However, Members shall not have rights or obligations under this Agreement in respect of the rights conferred under Article 6b(i) of that Convention or of the rights derived therefrom.
 
 2. Copyright protection shall extend to expressions and not to ideas, procedures, methods of operation or mathematical concepts as such.
 
 
-Article 10 
-Computer Programs and Compilations of Data
+# Article 10: Computer Programs and Compilations of Data
+
 1. Computer programs, whether in source or object code, shall be protected as literary works under the Berne Convention (1971).
 
 2. Compilations of data or other material, whether in machine readable or other form, which by reason of the selection or arrangement of their contents constitute intellectual creations shall be protected as such. Such protection, which shall not extend to the data or material itself, shall be without prejudice to any copyright subsisting in the data or material itself.
 
 
-Article 11 
-Rental Rights
+# Article 11: Rental Rights
+
      In respect of at least computer programs and cinematographic works, a Member shall provide authors and their successors in title the right to authorize or to prohibit the commercial rental to the public of originals or copies of their copyright works. A Member shall be excepted from this obligation in respect of cinematographic works unless such rental has led to widespread copying of such works which is materially impairing the exclusive right of reproduction conferred in that Member on authors and their successors in title. In respect of computer programs, this obligation does not apply to rentals where the program itself is not the essential object of the rental.
 
 
-Article 12 
-Term of Protection
+# Article 12: Term of Protection
+
     Whenever the term of protection of a work, other than a photographic work or a work of applied art, is calculated on a basis other than the life of a natural person, such term shall be no less than 50 years from the end of the calendar year of authorized publication, or, failing such authorized publication within 50 years from the making of the work, 50 years from the end of the calendar year of making.
 
+# Article 13: Limitations and Exceptions
 
-Article 13 
-Limitations and Exceptions
     Members shall confine limitations or exceptions to exclusive rights to certain special cases which do not conflict with a normal exploitation of the work and do not unreasonably prejudice the legitimate interests of the right holder.
 
 
-Article 14 
-Protection of Performers, Producers of Phonograms (Sound Recordings) and Broadcasting Organizations
+# Article 14: Protection of Performers, Producers of Phonograms (Sound Recordings) and Broadcasting Organizations
+
 1. In respect of a fixation of their performance on a phonogram, performers shall have the possibility of preventing the following acts when undertaken without their authorization: the fixation of their unfixed performance and the reproduction of such fixation. Performers shall also have the possibility of preventing the following acts when undertaken without their authorization: the broadcasting by wireless means and the communication to the public of their live performance.
 
 2. Producers of phonograms shall enjoy the right to authorize or prohibit the direct or indirect reproduction of their phonograms.
@@ -49,10 +48,10 @@ Protection of Performers, Producers of Phonograms (Sound Recordings) and Broadca
 
  
 
-Section 2: trademarks back to top
+# Section 2: Trademarks 
  
-Article 15 
-Protectable Subject Matter
+## Article 15: Protectable Subject Matter
+
 1. Any sign, or any combination of signs, capable of distinguishing the goods or services of one undertaking from those of other undertakings, shall be capable of constituting a trademark. Such signs, in particular words including personal names, letters, numerals, figurative elements and combinations of colours as well as any combination of such signs, shall be eligible for registration as trademarks. Where signs are not inherently capable of distinguishing the relevant goods or services, Members may make registrability depend on distinctiveness acquired through use. Members may require, as a condition of registration, that signs be visually perceptible.
 
 2. Paragraph 1 shall not be understood to prevent a Member from denying registration of a trademark on other grounds, provided that they do not derogate from the provisions of the Paris Convention (1967).
@@ -99,10 +98,10 @@ Article 21
 Licensing and Assignment
     Members may determine conditions on the licensing and assignment of trademarks, it being understood that the compulsory licensing of trademarks shall not be permitted and that the owner of a registered trademark shall have the right to assign the trademark with or without the transfer of the business to which the trademark belongs.
 
-Section 3: geographical indications back to top
+# Section 3: geographical indications back to top
 
-Article 22 
-Protection of Geographical Indications
+## Article 22 Protection of Geographical Indications
+
 1.    Geographical indications are, for the purposes of this Agreement, indications which identify a good as originating in the territory of a Member, or a region or locality in that territory, where a given quality, reputation or other characteristic of the good is essentially attributable to its geographical origin.
 
 2.    In respect of geographical indications, Members shall provide the legal means for interested parties to prevent:
