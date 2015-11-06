@@ -22,7 +22,7 @@ A Party may provide limited exceptions to the rights conferred by a trademark, s
 
 [^11] For greater certainty, the exclusive right in this Article applies to cases of  unauthorised use of geographical indications with goods for which the trademark is registered, in cases in which the use of that geographical indication in the course of trade would result in a likelihood of confusion as to the source of the goods.
 
-[^12] For greater certainty, the Parties understand that this Article should not be interpreted to affect their rights and obligations under Article 22 and Article 23 of the [TRIPS](./trips.md) Agreement.
+[^12] For greater certainty, the Parties understand that this Article should not be interpreted to affect their rights and obligations under Article 22 and Article 23 of the [TRIPS](./trips/references-section-c.md) Agreement.
 
 ---
 
