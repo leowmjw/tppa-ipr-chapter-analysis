@@ -1,11 +1,6 @@
 # References for Section C
 
-* TRIPS[^TRIPS]
-* Paris Convention[^2]
-
 # [TRIPS](../trips.md)
-
-[^TRIPS]
 
 ## Section 3: Geographical Indications 
 
@@ -46,7 +41,6 @@
 
 ## Article 6bis: Marks:: Well-Known Marks
 
-[^2]
 
 (1) The countries of the Union undertake, ex officio if their legislation so permits, or at the request of an interested party, to refuse or to cancel the registration, and to prohibit the use, of a trademark which constitutes a reproduction, an imitation, or a translation, liable to create confusion, of a mark considered by the competent authority of the country of registration or use to be well known in that country as being already the mark of a person entitled to the benefits of this Convention and used for identical or similar goods. These provisions shall also apply when the essential part of the mark constitutes a reproduction of any such well-known mark or an imitation liable to create confusion therewith.
 
