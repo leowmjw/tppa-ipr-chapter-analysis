@@ -2,48 +2,39 @@
 
 
 ## Article 18.1: Definitions
+
 1. For the purposes of this Chapter:
-Berne Convention means the Berne Convention for the Protection of Literary and
-Artistic Works, as revised at Paris, July 24, 1971;
-Budapest Treaty means the Budapest Treaty on the International Recognition of the
-Deposit of Microorganisms for the Purposes of Patent Procedure (1977), as amended
-on September 26, 1980;
-Declaration on TRIPS and Public Health means the Declaration on the TRIPS
-Agreement and Public Health (WT/MIN(01)/DEC/2), adopted on November 14,
-2001;
-geographical indication means an indication that identifies a good as originating in
-the territory of a Party, or a region or locality in that territory, where a given quality,
-reputation or other characteristic of the good is essentially attributable to its
-geographical origin;
-intellectual property refers to all categories of intellectual property that are the
-subject of Sections 1 through 7 of Part II of the TRIPS Agreement;
-Madrid Protocol means the Protocol Relating to the Madrid Agreement Concerning
-the International Registration of Marks, done at Madrid, June 27, 1989;
-Paris Convention means the Paris Convention for the Protection of Industrial
-Property, as revised at Stockholm, July 14, 1967;
-performance means a performance fixed in a phonogram unless otherwise specified;
-with respect to copyright and related rights, the term right to authorise or prohibit
-refers to exclusive rights;
-Singapore Treaty means the Singapore Treaty on the Law of Trademarks, done at
-Singapore, March 27, 2006;
-UPOV 1991 means the International Convention for the Protection of New Varieties
-of Plants, as revised at Geneva, March 19, 1991;
-WCT means the WIPO Copyright Treaty, done at Geneva, December 20, 1996;
-Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
-and Consistency
-Subject to Authentication of English, Spanish and French Versions
-18 – 2
-WIPO means the World Intellectual Property Organization;
-For greater certainty, work includes a cinematographic work, photographic work and
-computer program; and
-WPPT means the WIPO Performances and Phonograms Treaty, done at Geneva,
-December 20, 1996.
-2. For the purposes of Article 18.8 (National Treatment), Article 18.31(a)
-(Administrative Procedures for the Protection or Recognition of Geographical
-Indications) and Article 18.62.1 (Related Rights):
-a national means, in respect of the relevant right, a person of a Party that would meet
-the criteria for eligibility for protection provided for in the agreements listed in Article
-18.7 (International Agreements) or the TRIPS Agreement.
+
+    * **Berne Convention** means the Berne Convention for the Protection of Literary and Artistic Works, as revised at Paris, July 24, 1971;
+    
+    * **Budapest Treaty** means the Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure (1977), as amended on September 26, 1980;
+
+    * **Declaration on TRIPS and Public Health** means the Declaration on the TRIPS
+Agreement and Public Health (WT/MIN(01)/DEC/2), adopted on November 14, 2001;
+
+    * **geographical indication** means an indication that identifies a good as originating in the territory of a Party, or a region or locality in that territory, where a given quality, reputation or other characteristic of the good is essentially attributable to its geographical origin; 
+    
+    * **intellectual property** refers to all categories of intellectual property that are the subject of Sections 1 through 7 of Part II of the TRIPS Agreement; Madrid Protocol means the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks, done at Madrid, June 27, 1989;
+
+    * **Paris Convention** means the Paris Convention for the Protection of Industrial
+Property, as revised at Stockholm, July 14, 1967;performance means a performance fixed in a phonogram unless otherwise specified; with respect to copyright and related rights, the term right to authorise or prohibit refers to exclusive rights;
+
+    * **Singapore Treaty** means the Singapore Treaty on the Law of Trademarks, done at Singapore, March 27, 2006;
+    
+    * **UPOV 1991** means the International Convention for the Protection of New Varieties of Plants, as revised at Geneva, March 19, 1991;
+    
+    * **WCT** means the WIPO Copyright Treaty, done at Geneva, December 20, 1996;
+    
+    * **WIPO** means the World Intellectual Property Organization;
+    
+    * For greater certainty, **work** includes a cinematographic work, photographic work and computer program; and
+    
+    * **WPPT** means the WIPO Performances and Phonograms Treaty, done at Geneva, December 20, 1996.
+    
+2. For the purposes of Article 18.8 (National Treatment), Article 18.31(a) (Administrative Procedures for the Protection or Recognition of Geographical Indications) and Article 18.62.1 (Related Rights):
+
+    * a **national** means, in respect of the relevant right, a person of a Party that would meet the criteria for eligibility for protection provided for in the agreements listed in Article 18.7 (International Agreements) or the TRIPS Agreement.
+    
 ## Article QQ.A.X: {Objectives}
 The protection and enforcement of intellectual property rights should contribute to the promotion of technological innovation and to the transfer and dissemination of technology, to the mutual advantage of producers and users of technological knowledge and in a manner conducive to social and economic welfare, and to a balance of rights and obligations.
 
