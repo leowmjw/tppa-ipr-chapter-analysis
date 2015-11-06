@@ -8,9 +8,9 @@ No Party shall require, as a condition of registration, that a sign be visually 
 
 Each Party shall provide that trademarks include collective marks and certification marks. A Party is not obligated to treat certification marks as a separate category in its law, provided that those marks are protected. Each Party shall also provide that signs that may serve as geographical indications are capable of protection under its trademark system.[^10]
 
-Article 18.20: Use of Identical or Similar Signs
-Each Party shall provide that the owner of a registered trademark has the
-exclusive right to prevent third parties that do not have the owner’s consent from
+## Article 18.20: Use of Identical or Similar Signs
+
+Each Party shall provide that the owner of a registered trademark has the exclusive right to prevent third parties that do not have the owner’s consent from
 using in the course of trade identical or similar signs, including subsequent
 geographical indications,11,12 for goods or services that are related to those goods or
 services in respect of which the owner’s trademark is registered, where such use
