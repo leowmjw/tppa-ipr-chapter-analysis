@@ -96,31 +96,24 @@ No Party shall require recordal of trademark licences:
     
     (b) as a condition for use of a trademark by a licensee to be deemed to constitute use by the holder in a proceeding that relates to the acquisition, maintenance or enforcement of trademarks.
     
-Article 18.28: Domain Names
-1. In connection with each Party’s system for the management of its countrycode
-top-level domain (ccTLD) domain names, the following shall be available:
-(a) an appropriate procedure for the settlement of disputes, based on, or
-modelled along the same lines as, the principles established in the
-Uniform Domain-Name Dispute-Resolution Policy, as approved by the
-Internet Corporation for Assigned Names and Numbers (ICANN) or
-that:
-(i) is designed to resolve disputes expeditiously and at low cost;
-(ii) is fair and equitable;
-(iii) is not overly burdensome; and
-(iv) does not preclude resort to judicial proceedings; and
-(b) online public access to a reliable and accurate database of contact
-information concerning domain-name registrants,
-in accordance with each Party’s law and, if applicable, relevant administrator policies
-regarding protection of privacy and personal data.
+## Article 18.28: Domain Names
+
+1. In connection with each Party’s system for the management of its countrycode top-level domain (ccTLD) domain names, the following shall be available:
+
+    (a) an appropriate procedure for the settlement of disputes, based on, or modelled along the same lines as, the principles established in the Uniform Domain-Name Dispute-Resolution Policy, as approved by the Internet Corporation for Assigned Names and Numbers (ICANN) or that:
+    
+        (i) is designed to resolve disputes expeditiously and at low cost;
+        (ii) is fair and equitable;
+        (iii) is not overly burdensome; and
+        (iv) does not preclude resort to judicial proceedings; and
+        
+    (b) online public access to a reliable and accurate database of contact information concerning domain-name registrants, in accordance with each Party’s law and, if applicable, relevant administrator policies regarding protection of privacy and personal data.
+    
 2. In connection with each Party’s system for the management of ccTLD domain
-names, appropriate remedies17 shall be available at least in cases in which a person
- 17 The Parties understand that such remedies may, but need not, include, among other things,
-revocation, cancellation, transfer, damages or injunctive relief. 
-Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
-and Consistency
-Subject to Authentication of English, Spanish and French Versions
-18 – 14
-registers or holds, with a bad faith intent to profit, a domain name that is identical or
+names, appropriate remedies[^17] shall be available at least in cases in which a person registers or holds, with a bad faith intent to profit, a domain name that is identical or
 confusingly similar to a trademark. 
-Subject to Legal Review in
+
+
+[^17] The Parties understand that such remedies may, but need not, include, among other things,
+revocation, cancellation, transfer, damages or injunctive relief. 
 
