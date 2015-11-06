@@ -28,11 +28,12 @@
 
 4.    In order to facilitate the protection of geographical indications for wines, negotiations shall be undertaken in the Council for TRIPS concerning the establishment of a multilateral system of notification and registration of geographical indications for wines eligible for protection in those Members participating in the system.
     
-[^4] Notwithstanding the first sentence of Article 42 (see below), Members may, with respect to these obligations, instead provide for enforcement by administrative action.
+======
 
-Article 42:Fair and Equitable Procedures
+[^4] Notwithstanding the first sentence of Article 42: Fair and Equitable Procedures:
 
     Members shall make available to right holders (For the purpose of this Part, the term “right holder” includes federations and associations having legal standing to assert such rights.) civil judicial procedures concerning the enforcement of any intellectual property right covered by this Agreement. ...
+, Members may, with respect to these obligations, instead provide for enforcement by administrative action.
 
 ---
 
