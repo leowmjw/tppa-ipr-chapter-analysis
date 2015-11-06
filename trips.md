@@ -98,25 +98,25 @@ Article 21
 Licensing and Assignment
     Members may determine conditions on the licensing and assignment of trademarks, it being understood that the compulsory licensing of trademarks shall not be permitted and that the owner of a registered trademark shall have the right to assign the trademark with or without the transfer of the business to which the trademark belongs.
 
-# Section 3: geographical indications back to top
+# Section 3: Geographical Indications 
 
-## Article 22 Protection of Geographical Indications
+## Article 22: Protection of Geographical Indications
 
 1.    Geographical indications are, for the purposes of this Agreement, indications which identify a good as originating in the territory of a Member, or a region or locality in that territory, where a given quality, reputation or other characteristic of the good is essentially attributable to its geographical origin.
 
 2.    In respect of geographical indications, Members shall provide the legal means for interested parties to prevent:
 
-(a)    the use of any means in the designation or presentation of a good that indicates or suggests that the good in question originates in a geographical area other than the true place of origin in a manner which misleads the public as to the geographical origin of the good;
+    (a)    the use of any means in the designation or presentation of a good that indicates or suggests that the good in question originates in a geographical area other than the true place of origin in a manner which misleads the public as to the geographical origin of the good;
  
-(b)    any use which constitutes an act of unfair competition within the meaning of Article 10bis of the Paris Convention (1967).
+    (b)    any use which constitutes an act of unfair competition within the meaning of Article 10bis of the Paris Convention (1967).
+    
 3.    A Member shall, ex officio if its legislation so permits or at the request of an interested party, refuse or invalidate the registration of a trademark which contains or consists of a geographical indication with respect to goods not originating in the territory indicated, if use of the indication in the trademark for such goods in that Member is of such a nature as to mislead the public as to the true place of origin.
 
 4.    The protection under paragraphs 1, 2 and 3 shall be applicable against a geographical indication which, although literally true as to the territory, region or locality in which the goods originate, falsely represents to the public that the goods originate in another territory.
 
+# Article 23: Additional Protection for Geographical Indications for Wines and Spirits
 
-Article 23 
-Additional Protection for Geographical Indications for Wines and Spirits
-1.    Each Member shall provide the legal means for interested parties to prevent use of a geographical indication identifying wines for wines not originating in the place indicated by the geographical indication in question or identifying spirits for spirits not originating in the place indicated by the geographical indication in question, even where the true origin of the goods is indicated or the geographical indication is used in translation or accompanied by expressions such as “kind”, “type”, “style”, “imitation” or the like. (4)
+1.    Each Member shall provide the legal means for interested parties to prevent use of a geographical indication identifying wines for wines not originating in the place indicated by the geographical indication in question or identifying spirits for spirits not originating in the place indicated by the geographical indication in question, even where the true origin of the goods is indicated or the geographical indication is used in translation or accompanied by expressions such as “kind”, “type”, “style”, “imitation” or the like. [^4]
 
 2.    The registration of a trademark for wines which contains or consists of a geographical indication identifying wines or for spirits which contains or consists of a geographical indication identifying spirits shall be refused or invalidated, ex officio if a Member’s legislation so permits or at the request of an interested party, with respect to such wines or spirits not having this origin.
 
