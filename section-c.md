@@ -37,33 +37,33 @@ Member States of WIPO September 20 to 29, 1999.
 
 4. Each Party shall provide for appropriate measures to refuse the application or
 cancel the registration and prohibit the use of a trademark that is identical or similar to
-a well-known trademark,14 for identical or similar goods or services, if the use of that
+a well-known trademark,[^14] for identical or similar goods or services, if the use of that
 trademark is likely to cause confusion with the prior well-known trademark. A Party
 may also provide such measures including in cases in which the subsequent trademark
 is likely to deceive.
-Article 18.23: Procedural Aspects of Examination, Opposition and Cancellation
-Each Party shall provide a system for the examination and registration of
-trademarks which includes among other things:
-(a) communicating to the applicant in writing, which may be by electronic
-means, the reasons for any refusal to register a trademark;
-(b) providing the applicant with an opportunity to respond to
-communications from the competent authorities, to contest any initial
-refusal, and to make a judicial appeal of any final refusal to register a
-trademark;
- 13 In determining whether a trademark is well-known in a Party, that Party need not require that the
-reputation of the trademark extend beyond the sector of the public that normally deals with the relevant
-goods or services.
-14 The Parties understand that a well-known trademark is one that was already well-known before, as
-determined by a Party, the application for, registration of or use of the first-mentioned trademark.
-Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
-and Consistency
-Subject to Authentication of English, Spanish and French Versions
-18 – 12
-(c) providing an opportunity to oppose the registration of a trademark or to
-seek cancellation15 of a trademark; and
-(d) requiring administrative decisions in opposition and cancellation
-proceedings to be reasoned and in writing, which may be provided by
-electronic means.
+
+## Article 18.23: Procedural Aspects of Examination, Opposition and Cancellation
+
+Each Party shall provide a system for the examination and registration of trademarks which includes among other things:
+
+    (a) communicating to the applicant in writing, which may be by electronic means, the reasons for any refusal to register a trademark;
+    
+    (b) providing the applicant with an opportunity to respond to communications from the competent authorities, to contest any initial refusal, and to make a judicial appeal of any final refusal to register a trademark;
+
+    (c) providing an opportunity to oppose the registration of a trademark or to seek cancellation[^15] of a trademark; and
+
+    (d) requiring administrative decisions in opposition and cancellation proceedings to be reasoned and in writing, which may be provided by electronic means.
+
+===
+
+[^13] In determining whether a trademark is well-known in a Party, that Party need not require that the reputation of the trademark extend beyond the sector of the public that normally deals with the relevant goods or services.
+ 
+[^14] The Parties understand that a well-known trademark is one that was already well-known before, as determined by a Party, the application for, registration of or use of the first-mentioned trademark.
+
+[^15] For greater certainty, cancellation for purposes of this Section may be implemented through nullification or revocation proceedings.
+
+---
+
 Article 18.24: Electronic Trademarks System
 Each Party shall provide:
 (a) a system for the electronic application for, and maintenance of,
@@ -87,8 +87,7 @@ shall provide that goods or services may not be considered as being
 dissimilar from each other on the ground that, in any registration or
 publication, they are classified in different classes of the Nice
 Classification.
- 15 For greater certainty, cancellation for purposes of this Section may be implemented through
-nullification or revocation proceedings. 16 A Party that relies on translations of the Nice Classification shall follow updated versions of the Nice
+ 16 A Party that relies on translations of the Nice Classification shall follow updated versions of the Nice
 Classification to the extent that official translations have been issued and published.
 Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
 and Consistency
