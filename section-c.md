@@ -20,7 +20,7 @@ A Party may provide limited exceptions to the rights conferred by a trademark, s
 
 [^10] Consistent with the definition of a geographical indication in [Article 18.1](./section-a.md) (Definitions), any sign or combination of signs shall be eligible for protection under one or more of the legal means for protecting geographical indications, or a combination of such means.
 
-[^11] For greater certainty, the exclusive right in this Article applies to cases of  unauthorised use of geographical indications with goods for which the trademark is registered, in cases in which the use of that geographical indication in the course of trade would result in a likelihood of confusion as to the source of the goods.
+[^11] For greater certainty, the exclusive right in this Article applies to cases of unauthorised use of geographical indications with goods for which the trademark is registered, in cases in which the use of that geographical indication in the course of trade would result in a likelihood of confusion as to the source of the goods.
 
 [^12] For greater certainty, the Parties understand that this Article should not be interpreted to affect their rights and obligations under Article 22 and Article 23 of the [TRIPS](./section-c/trips.md) Agreement.
 
