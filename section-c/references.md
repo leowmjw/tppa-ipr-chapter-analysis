@@ -12,7 +12,7 @@
 
     (a)    the use of any means in the designation or presentation of a good that indicates or suggests that the good in question originates in a geographical area other than the true place of origin in a manner which misleads the public as to the geographical origin of the good;
  
-    (b)    any use which constitutes an act of unfair competition within the meaning of Article 10bis of the Paris Convention (1967).
+    (b)    any use which constitutes an act of unfair competition within the meaning of [Article 10bis](./paris-convention.md) of the Paris Convention (1967).
     
 3.    A Member shall, ex officio if its legislation so permits or at the request of an interested party, refuse or invalidate the registration of a trademark which contains or consists of a geographical indication with respect to goods not originating in the territory indicated, if use of the indication in the trademark for such goods in that Member is of such a nature as to mislead the public as to the true place of origin.
 
