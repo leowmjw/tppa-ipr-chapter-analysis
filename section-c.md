@@ -64,35 +64,30 @@ Each Party shall provide a system for the examination and registration of tradem
 
 ---
 
-Article 18.24: Electronic Trademarks System
+## Article 18.24: Electronic Trademarks System
+
 Each Party shall provide:
-(a) a system for the electronic application for, and maintenance of,
-trademarks; and
-(b) a publicly available electronic information system, including an online
-database, of trademark applications and of registered trademarks.
-Article 18.25: Classification of Goods and Services
-Each Party shall adopt or maintain a trademark classification system that is
-consistent with the Nice Agreement Concerning the International Classification of
-Goods and Services for the Purposes of the Registration of Marks, done at Nice, June
-15, 1957, as revised and amended (Nice Classification). Each Party shall provide
-that:
-(a) registrations and the publications of applications indicate the goods and
-services by their names, grouped according to the classes established
-by the Nice Classification;
-16 and
-(b) goods or services may not be considered as being similar to each other
-on the ground that, in any registration or publication, they are classified
-in the same class of the Nice Classification. Conversely, each Party
-shall provide that goods or services may not be considered as being
-dissimilar from each other on the ground that, in any registration or
-publication, they are classified in different classes of the Nice
-Classification.
- 16 A Party that relies on translations of the Nice Classification shall follow updated versions of the Nice
-Classification to the extent that official translations have been issued and published.
-Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
-and Consistency
-Subject to Authentication of English, Spanish and French Versions
-18 – 13
+
+    (a) a system for the electronic application for, and maintenance of, trademarks; and
+
+    (b) a publicly available electronic information system, including an online  database, of trademark applications and of registered trademarks.
+    
+## Article 18.25: Classification of Goods and Services
+
+Each Party shall adopt or maintain a trademark classification system that is consistent with the Nice Agreement Concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks, done at Nice, June 15, 1957, as revised and amended (Nice Classification).
+
+Each Party shall provide that:
+
+    (a) registrations and the publications of applications indicate the goods and services by their names, grouped according to the classes established by the Nice Classification;[^16] and
+    
+    (b) goods or services may not be considered as being similar to each other on the ground that, in any registration or publication, they are classified in the same class of the Nice Classification. Conversely, each Party shall provide that goods or services may not be considered as being dissimilar from each other on the ground that, in any registration or publication, they are classified in different classes of the Nice Classification.
+
+===
+
+[^16] A Party that relies on translations of the Nice Classification shall follow updated versions of the Nice Classification to the extent that official translations have been issued and published.
+
+---
+
 Article 18.26: Term of Protection for Trademarks
 Each Party shall provide that initial registration and each renewal of
 registration of a trademark is for a term of no less than 10 years.
