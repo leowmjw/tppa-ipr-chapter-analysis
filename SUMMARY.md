@@ -24,5 +24,4 @@
    * [WPPT](wppt.md)
    * [ILO](ilo.md)
    * [TRIPS](trips.md)
-       * [References](trips/references-section-c.md)
 
