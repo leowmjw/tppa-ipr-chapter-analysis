@@ -112,6 +112,7 @@ No Party shall require recordal of trademark licences:
 2. In connection with each Party’s system for the management of ccTLD domain names, appropriate remedies[^17] shall be available at least in cases in which a person registers or holds, with a bad faith intent to profit, a domain name that is identical or confusingly similar to a trademark. 
 
 ====
+
 [^17] The Parties understand that such remedies may, but need not, include, among other things,
 revocation, cancellation, transfer, damages or injunctive relief. 
 
