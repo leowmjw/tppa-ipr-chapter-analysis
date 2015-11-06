@@ -5,7 +5,7 @@
    * [Section A](section-a.md)
    * [Section B](section-b.md)
    * [Section C](section-c.md)
-       * References
+       * [References](section-c/references.md)
    * [{Section D: x }]({section_d_x_}.md)
    * [{Section E: x }]({section_e_x_}.md)
    * [{Section F: x }]({section_f_x_}.md)
