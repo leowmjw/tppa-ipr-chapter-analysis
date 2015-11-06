@@ -10,9 +10,7 @@ Each Party shall provide that trademarks include collective marks and certificat
 
 ## Article 18.20: Use of Identical or Similar Signs
 
-Each Party shall provide that the owner of a registered trademark has the exclusive right to prevent third parties that do not have the owner’s consent from
-using in the course of trade identical or similar signs, including subsequent
-geographical indications,11,12 for goods or services that are related to those goods or
+Each Party shall provide that the owner of a registered trademark has the exclusive right to prevent third parties that do not have the owner’s consent from using in the course of trade identical or similar signs, including subsequent geographical indications,[^11],[^12] for goods or services that are related to those goods or
 services in respect of which the owner’s trademark is registered, where such use
 would result in a likelihood of confusion. In the case of the use of an identical sign
 for identical goods or services, a likelihood of confusion shall be presumed.
@@ -23,7 +21,7 @@ the legitimate interest of the owner of the trademark and of third parties.
 
 ---
 
-[^10] Consistent with the definition of a geographical indication in Article 18.1 (Definitions), any sign or combination of signs shall be eligible for protection under one or more of the legal means for protecting geographical indications, or a combination of such means.
+[^10] Consistent with the definition of a geographical indication in Article 18.1[^geo] (Definitions), any sign or combination of signs shall be eligible for protection under one or more of the legal means for protecting geographical indications, or a combination of such means.
 
 11 For greater certainty, the exclusive right in this Article applies to cases of unauthorised use of
 geographical indications with goods for which the trademark is registered, in cases in which the use of
@@ -35,6 +33,9 @@ Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
 and Consistency
 Subject to Authentication of English, Spanish and French Versions
 18 – 11
+
+---
+
 Article 18.22: Well-Known Trademarks
 1. No Party shall require as a condition for determining that a trademark is wellknown
 that the trademark has been registered in the Party or in another jurisdiction,
