@@ -5,7 +5,7 @@
    * [Section A](section-a.md)
    * [Section B](section-b.md)
    * [Section C](section-c.md)
-       * [References](section-c/references.md)
+       * [Related Sections of TRIPS](section-c/trips.md)
        * [Related Sections of Paris Convention](section-c/paris-convention.md)
    * [{Section D: x }]({section_d_x_}.md)
    * [{Section E: x }]({section_e_x_}.md)
