@@ -27,5 +27,13 @@
 3.    In the case of homonymous geographical indications for wines, protection shall be accorded to each indication, subject to the provisions of paragraph 4 of Article 22. Each Member shall determine the practical conditions under which the homonymous indications in question will be differentiated from each other, taking into account the need to ensure equitable treatment of the producers concerned and that consumers are not misled.
 
 4.    In order to facilitate the protection of geographical indications for wines, negotiations shall be undertaken in the Council for TRIPS concerning the establishment of a multilateral system of notification and registration of geographical indications for wines eligible for protection in those Members participating in the system.
+    
+[^4] Notwithstanding the first sentence of Article 42 (see below_, Members may, with respect to these obligations, instead provide for enforcement by administrative action.
+
+Article 42:Fair and Equitable Procedures
+
+    Members shall make available to right holders (For the purpose of this Part, the term “right holder” includes federations and associations having legal standing to assert such rights.) civil judicial procedures concerning the enforcement of any intellectual property right covered by this Agreement. ...
+
+---
 
 
