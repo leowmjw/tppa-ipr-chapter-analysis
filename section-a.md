@@ -12,7 +12,7 @@
     * **Declaration on TRIPS and Public Health** means the Declaration on the TRIPS
 Agreement and Public Health (WT/MIN(01)/DEC/2), adopted on November 14, 2001;
 
-    * **geographical indication**[^geo] means an indication that identifies a good as originating in the territory of a Party, or a region or locality in that territory, where a given quality, reputation or other characteristic of the good is essentially attributable to its geographical origin; 
+    * **geographical indication** means an indication that identifies a good as originating in the territory of a Party, or a region or locality in that territory, where a given quality, reputation or other characteristic of the good is essentially attributable to its geographical origin; 
     
     * **intellectual property** refers to all categories of intellectual property that are the subject of Sections 1 through 7 of Part II of the TRIPS Agreement; Madrid Protocol means the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks, done at Madrid, June 27, 1989;
 
