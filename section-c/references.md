@@ -1,10 +1,10 @@
 # References for Section C
 
-[TRIPS](../trips.md)
+# [TRIPS](../trips.md)
 
-# Section 3: Geographical Indications 
+## Section 3: Geographical Indications 
 
-## Article 22: Protection of Geographical Indications
+### Article 22: Protection of Geographical Indications
 
 1.    Geographical indications are, for the purposes of this Agreement, indications which identify a good as originating in the territory of a Member, or a region or locality in that territory, where a given quality, reputation or other characteristic of the good is essentially attributable to its geographical origin.
 
