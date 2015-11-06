@@ -21,7 +21,7 @@ the legitimate interest of the owner of the trademark and of third parties.
 
 ---
 
-[^10] Consistent with the definition of a geographical indication in Article 18.1[^geo] (Definitions), any sign or combination of signs shall be eligible for protection under one or more of the legal means for protecting geographical indications, or a combination of such means.
+[^10] Consistent with the definition of a geographical indication in [Article 18.1](.section-a.md) (Definitions), any sign or combination of signs shall be eligible for protection under one or more of the legal means for protecting geographical indications, or a combination of such means.
 
 11 For greater certainty, the exclusive right in this Article applies to cases of unauthorised use of
 geographical indications with goods for which the trademark is registered, in cases in which the use of
