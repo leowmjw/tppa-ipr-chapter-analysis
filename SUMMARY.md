@@ -20,7 +20,6 @@
    * [Section J: Internet Service Providers](section-j.md)
    * Annex 18-E: Annex to Section J
    * [Section K: Final Provisions](section-k.md)
-       * Annex 18-E: Annex to Section J
    * [Annex 18-C](annex-18-C.md)
 * [Related Treaties Referenced](related_treaties_referenced.md)
    * [Berne Convention](berne_convention.md)
