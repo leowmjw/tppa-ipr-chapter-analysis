@@ -1,13 +1,9 @@
 # Section I: Enforcement
 
 ## Article 18.71: General Obligations
-1. Each Party shall ensure that enforcement procedures as specified in this
-Section are available under its law100 so as to permit effective action against any act of
-infringement of intellectual property rights covered by this Chapter, including
-expeditious remedies to prevent infringements and remedies that constitute a deterrent
-to future infringements.101 These procedures shall be applied in such a manner as to
-avoid the creation of barriers to legitimate trade and to provide for safeguards against
-their abuse.
+
+1. Each Party shall ensure that enforcement procedures as specified in this Section are available under its law[^100] so as to permit effective action against any act of infringement of intellectual property rights covered by this Chapter, including expeditious remedies to prevent infringements and remedies that constitute a deterrent to future infringements.[^101] These procedures shall be applied in such a manner as to avoid the creation of barriers to legitimate trade and to provide for safeguards against their abuse.
+
 2. Each Party confirms that the enforcement procedures set forth in Article 18.74
 (Civil and Administrative Procedures and Remedies), Article 18.75 (Provisional
 Measures) and Article 18.77 (Criminal Procedures and Penalties) shall be available to
