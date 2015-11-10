@@ -20,18 +20,16 @@
 
 [^100] For greater certainty, “law” is not limited to legislation. 
 
-[^101] For greater certainty, and subject to Article 44 of the TRIPS Agreement and the provisions of this
-Agreement, each Party confirms that it makes such remedies available with respect to enterprises,
-regardless of whether the enterprises are private or state-owned.
-Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
-and Consistency
-Subject to Authentication of English, Spanish and French Versions
-18 – 44
-Article 18.72: Presumptions
+[^101] For greater certainty, and subject to Article 44 of the TRIPS Agreement and the provisions of this Agreement, each Party confirms that it makes such remedies available with respect to enterprises, regardless of whether the enterprises are private or state-owned.
+
+---
+
+## Article 18.72: Presumptions
+
 1. In civil, criminal and, if applicable, administrative proceedings involving
-copyright or related rights, each Party shall provide for a presumption102 that, in the
-absence of proof to the contrary:
-(a) the person whose name is indicated in the usual manner 103 as the
+copyright or related rights, each Party shall provide for a presumption[^102] that, in the absence of proof to the contrary:
+
+    (a) the person whose name is indicated in the usual manner[^103] as the
 author, performer or producer of the work, performance or phonogram,
 or if applicable the publisher, is the designated right holder in that
 work, performance or phonogram; and
