@@ -6,23 +6,21 @@
 
 2. Each Party confirms that the enforcement procedures set forth in Article 18.74 (Civil and Administrative Procedures and Remedies), Article 18.75 (Provisional Measures) and Article 18.77 (Criminal Procedures and Penalties) shall be available to the same extent with respect to acts of trademark infringement, as well as copyright or related rights infringement, in the digital environment.
 
-3. Each Party shall ensure that its procedures concerning the enforcement of
-intellectual property rights are fair and equitable. These procedures shall not be
-unnecessarily complicated or costly, or entail unreasonable time-limits or unwarranted
-delays.
+3. Each Party shall ensure that its procedures concerning the enforcement of intellectual property rights are fair and equitable. These procedures shall not be unnecessarily complicated or costly, or entail unreasonable time-limits or unwarranted delays.
+
 4. This Section does not create any obligation:
-(a) to put in place a judicial system for the enforcement of intellectual
-property rights distinct from that for the enforcement of law in general,
-nor does it affect the capacity of each Party to enforce its law in
-general; or
-(b) with respect to the distribution of resources as between the
-enforcement of intellectual property rights and the enforcement of law
-in general.
-5. In implementing the provisions of this Section in its intellectual property
-system, each Party shall take into account the need for proportionality between the
-seriousness of the infringement of the intellectual property right and the applicable
-remedies and penalties, as well as the interests of third parties.
- 100 For greater certainty, “law” is not limited to legislation. 101 For greater certainty, and subject to Article 44 of the TRIPS Agreement and the provisions of this
+
+    (a) to put in place a judicial system for the enforcement of intellectual property rights distinct from that for the enforcement of law in general, nor does it affect the capacity of each Party to enforce its law in general; or
+
+    (b) with respect to the distribution of resources as between the enforcement of intellectual property rights and the enforcement of law in general.
+    
+5. In implementing the provisions of this Section in its intellectual property system, each Party shall take into account the need for proportionality between the seriousness of the infringement of the intellectual property right and the applicable remedies and penalties, as well as the interests of third parties.
+
+===
+
+[^100] For greater certainty, “law” is not limited to legislation. 
+
+[^101] For greater certainty, and subject to Article 44 of the TRIPS Agreement and the provisions of this
 Agreement, each Party confirms that it makes such remedies available with respect to enterprises,
 regardless of whether the enterprises are private or state-owned.
 Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
