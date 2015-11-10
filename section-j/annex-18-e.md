@@ -27,8 +27,7 @@
     (e) induce Internet service providers carrying out the function referred to in Article 18.82.2(c) (Legal Remedies and Safe Harbours) to remove or disable access to material upon becoming aware of a decision of a court of that Party to the effect that the person storing the material infringes copyright in the material.
     
 2. For a Party to which Article 18.82.3 and Article 18.82.4 (Legal Remedies and
-Safe Harbours) do not apply pursuant to paragraph 1 of this Annex, and in light of, among other things, paragraph 1(b) of this Annex, for the purposes of Article 18.82.1(a), legal incentives shall not mean the conditions for Internet Service Providers to qualify for the limitations provided for in Article 18.82.1(b), as set out in
-Article 18.82.3.
+Safe Harbours) do not apply pursuant to paragraph 1 of this Annex, and in light of, among other things, paragraph 1(b) of this Annex, for the purposes of Article 18.82.1(a), legal incentives shall not mean the conditions for Internet Service Providers to qualify for the limitations provided for in Article 18.82.1(b), as set out in Article 18.82.3.
 
 ## Annex 18-F
 
