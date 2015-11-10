@@ -25,7 +25,7 @@ Article 18.31: Administrative Procedures for the Protection or Recognition of Ge
 
 ---
 
-## Article 18.32: Grounds of Opposition and Cancellation20
+## Article 18.32: Grounds of Opposition and Cancellation[^20]
 
 1. If a Party protects or recognises a geographical indication through the
 procedures referred to in Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications), that Party shall provide procedures that allow interested persons to object to the protection or recognition of a geographical indication and that allow for any such protection or recognition to be refused or otherwise not afforded, at least, on the following grounds:
