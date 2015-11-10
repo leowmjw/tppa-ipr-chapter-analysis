@@ -15,8 +15,8 @@
        * [Subsection B: Measures Relating to Agricultural Chemical Products](section-f/subsection-b.md)
        * [Subsection C: Measures Relating to Pharmaceutical Products](section-f/subsection-c.md)
    * [Section H: Copyright and Related Rights](section-h.md)
-   * [Section G: Industrial Designs](section-g.md)
    * Section I
+   * [Section G: Industrial Designs](section-g.md)
    * [Annex 18-C](annex-18-C.md)
 * [Related Treaties Referenced](related_treaties_referenced.md)
    * [Berne Convention](berne_convention.md)
