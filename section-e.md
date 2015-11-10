@@ -1,41 +1,31 @@
 # Section E: Geographical Indications
 
 ##Article 18.30: Recognition of Geographical Indications
-The Parties recognise that geographical indications may be protected through a
-trademark or sui generis system or other legal means.
-Article 18.31: Administrative Procedures for the Protection or Recognition of
-Geographical Indications
-If a Party provides administrative procedures for the protection or recognition
-of geographical indications, whether through a trademark or a sui generis system, that
-Party shall with respect to applications for that protection or petitions for that
-recognition:
-(a) accept those applications or petitions without requiring intercession by
-a Party on behalf of its nationals;
-18
-(b) process those applications or petitions without imposition of overly
-burdensome formalities;
-(c) ensure that its laws and regulations governing the filing of those
-applications or petitions are readily available to the public and clearly
-set out the procedures for these actions;
-(d) make available information sufficient to allow the general public to
-obtain guidance concerning the procedures for filing applications or
-petitions and the processing of those applications or petitions in
-general; and allow an applicant, a petitioner, or their representative to
-ascertain the status of specific applications and petitions;
-(e) ensure that those applications or petitions are published for opposition
-and provide procedures for opposing geographical indications that are
-the subject of applications or petitions; and
-(f) provide for cancellation19 of the protection or recognition afforded to a
-geographical indication.
- 18 This subparagraph also applies to judicial procedures that protect or recognise a geographical
-indication.
-19 For greater certainty, for the purposes of this Section, cancellation may be implemented through
-nullification or revocation proceedings. 
-Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
-and Consistency
-Subject to Authentication of English, Spanish and French Versions
-18 – 17
-Article 18.32: Grounds of Opposition and Cancellation20
+
+The Parties recognise that geographical indications may be protected through a trademark or sui generis system or other legal means.
+Article 18.31: Administrative Procedures for the Protection or Recognition of Geographical Indications If a Party provides administrative procedures for the protection or recognition of geographical indications, whether through a trademark or a sui generis system, that Party shall with respect to applications for that protection or petitions for that recognition:
+
+    (a) accept those applications or petitions without requiring intercession by a Party on behalf of its nationals;[^18]
+    
+    (b) process those applications or petitions without imposition of overly burdensome formalities;
+    
+    (c) ensure that its laws and regulations governing the filing of those applications or petitions are readily available to the public and clearly set out the procedures for these actions;
+
+    (d) make available information sufficient to allow the general public to obtain guidance concerning the procedures for filing applications or petitions and the processing of those applications or petitions in general; and allow an applicant, a petitioner, or their representative to ascertain the status of specific applications and petitions;
+    
+    (e) ensure that those applications or petitions are published for opposition and provide procedures for opposing geographical indications that are the subject of applications or petitions; and
+    
+    (f) provide for cancellation[^19] of the protection or recognition afforded to a geographical indication.
+    
+====
+
+[^18] This subparagraph also applies to judicial procedures that protect or recognise a geographical indication.
+
+[^19] For greater certainty, for the purposes of this Section, cancellation may be implemented through nullification or revocation proceedings. 
+
+---
+
+## Article 18.32: Grounds of Opposition and Cancellation20
 1. If a Party protects or recognises a geographical indication through the
 procedures referred to in Article 18.31 (Administrative Procedures for the Protection
 or Recognition of Geographical Indications), that Party shall provide procedures that
