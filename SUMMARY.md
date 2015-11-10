@@ -18,6 +18,7 @@
    * [Section H: Copyright and Related Rights](section-h.md)
    * [Section I: Enforcement](section-i.md)
    * [Section J: Internet Service Providers](section-j.md)
+       * Annex 18-E: Annex to Section J
    * [Section K: Final Provisions](section-k.md)
    * [Annex 18-C](annex-18-C.md)
 * [Related Treaties Referenced](related_treaties_referenced.md)
