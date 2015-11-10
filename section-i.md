@@ -29,15 +29,12 @@
 1. In civil, criminal and, if applicable, administrative proceedings involving
 copyright or related rights, each Party shall provide for a presumption[^102] that, in the absence of proof to the contrary:
 
-    (a) the person whose name is indicated in the usual manner[^103] as the
-author, performer or producer of the work, performance or phonogram,
-or if applicable the publisher, is the designated right holder in that
-work, performance or phonogram; and
-(b) the copyright or related right subsists in such subject matter.
-2. In connection with the commencement of a civil, administrative or criminal
-enforcement proceeding involving a registered trademark that has been substantively
-examined by its competent authority, each Party shall provide that the trademark be
-considered prima facie valid.
+    (a) the person whose name is indicated in the usual manner[^103] as the author, performer or producer of the work, performance or phonogram, or if applicable the publisher, is the designated right holder in that work, performance or phonogram; and
+    
+    (b) the copyright or related right subsists in such subject matter.
+    
+2. In connection with the commencement of a civil, administrative or criminal enforcement proceeding involving a registered trademark that has been substantively examined by its competent authority, each Party shall provide that the trademark be considered prima facie valid.
+
 3. In connection with the commencement of a civil or administrative
 enforcement proceeding involving a patent that has been substantively examined and
 granted104 by the competent authority of a Party, that Party shall provide that each
