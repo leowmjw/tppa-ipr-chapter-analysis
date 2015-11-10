@@ -76,40 +76,24 @@ With respect to the procedures in Article 18.31 (Administrative Procedures for t
 ---
 
 ## Article 18.35: Date of Protection of a Geographical Indication
-If a Party grants protection or recognition to a geographical indication through
-the procedures referred to in Article 18.31 (Administrative Procedures for the
-Protection or Recognition of Geographical Indications), that protection or recognition
-shall commence no earlier than the filing date25 in the Party or the registration date in
-the Party, as applicable.
-Article 18.36: International Agreements
-1. If a Party protects or recognises a geographical indication pursuant to an
-international agreement, as of the applicable date under paragraph 6, involving a Party
-or a non-Party and that geographical indication is not protected through the
-procedures referred to in Article 18.31 (Administrative Procedures for the Protection
-or Recognition of Geographical Indications) 26 or Article 18.32.4 (Grounds of
-Opposition and Cancellation), that Party shall apply at least procedures and grounds
-that are equivalent to those in Article 18.31(e) (Administrative Procedures for the
-Protection or Recognition of Geographical Indications) and Article 18.32.1 (Grounds
-of Opposition and Cancellation), as well as:
-(a) make available information sufficient to allow the general public to
-obtain guidance concerning the procedures for protecting or
-recognising the geographical indication and allow interested persons to
-ascertain the status of requests for protection or recognition;
-(b) make available to the public, on the Internet, details regarding the
-terms that the Party is considering protecting or recognising through an
-international agreement involving a Party or a non-party, including
-specifying whether the protection or recognition is being considered for
-any translations or transliterations of those terms, and with respect to
-multi-component terms, specifying the components, if any, for which
-protection or recognition is being considered, or the components that
-are disclaimed;
-(c) in respect of opposition procedures, provide a reasonable period of
-time for interested persons to oppose the protection or recognition of
-the terms referred to in subparagraph (b). That period shall provide a
- 25 For greater certainty, the filing date referred to in this paragraph includes, as applicable, the priority
-filing date under the Paris Convention.
-26 Each Party shall apply 18.33 (Guidelines for Determining Whether a Term is the Term Customary in
-the Common Language) and 18.34 (Multi-Component Terms) in determining whether to grant
+
+If a Party grants protection or recognition to a geographical indication through the procedures referred to in Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications), that protection or recognition shall commence no earlier than the filing date[^25] in the Party or the registration date in the Party, as applicable.
+
+## Article 18.36: International Agreements
+
+1. If a Party protects or recognises a geographical indication pursuant to an international agreement, as of the applicable date under paragraph 6, involving a Party or a non-Party and that geographical indication is not protected through the procedures referred to in Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications) 26 or Article 18.32.4 (Grounds of Opposition and Cancellation), that Party shall apply at least procedures and grounds that are equivalent to those in Article 18.31(e) (Administrative Procedures for the Protection or Recognition of Geographical Indications) and Article 18.32.1 (Grounds of Opposition and Cancellation), as well as:
+
+    (a) make available information sufficient to allow the general public to obtain guidance concerning the procedures for protecting or recognising the geographical indication and allow interested persons to ascertain the status of requests for protection or recognition;
+    
+    (b) make available to the public, on the Internet, details regarding the terms that the Party is considering protecting or recognising through an international agreement involving a Party or a non-party, including specifying whether the protection or recognition is being considered for any translations or transliterations of those terms, and with respect to multi-component terms, specifying the components, if any, for which protection or recognition is being considered, or the components that are disclaimed;
+    
+    (c) in respect of opposition procedures, provide a reasonable period of time for interested persons to oppose the protection or recognition of the terms referred to in subparagraph (b). That period shall provide a
+
+===
+
+[^25] For greater certainty, the filing date referred to in this paragraph includes, as applicable, the priority filing date under the [Paris Convention](./section-e/paris-convention.md).
+
+[^26] Each Party shall apply 18.33 (Guidelines for Determining Whether a Term is the Term Customary in the Common Language) and 18.34 (Multi-Component Terms) in determining whether to grant
 protection or recognition of a geographical indication pursuant to this paragraph.
 Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
 and Consistency
