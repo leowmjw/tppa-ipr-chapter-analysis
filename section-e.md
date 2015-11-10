@@ -38,26 +38,16 @@ procedures referred to in Article 18.31 (Administrative Procedures for the Prote
     
 2. If a Party has protected or recognised a geographical indication through the procedures referred to in Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications), that Party shall provide procedures that allow for interested persons to seek the cancellation of a geographical indication, and that allow for the protection or recognition to be cancelled, at least, on the grounds listed in paragraph 1. A Party may provide that the grounds listed in paragraph 1 shall apply as of the time of filing the request for protection or recognition of a geographical indication in the territory of the Party.[^22]
 
-3. No Party shall preclude the possibility that the protection or recognition of a
-geographical indication may be cancelled, or otherwise cease, on the basis that the
-protected or recognised term has ceased meeting the conditions upon which the
-protection or recognition was originally granted in that Party.
- 20 A Party is not required to apply this Article to geographical indications for wines and spirits or to
-applications or petitions for those geographical indications.
-21 For greater certainty, if a Party provides for the procedures in Article 18.31 (Administrative
-Procedures for the Protection or Recognition of Geographical Indications) and this Article to be applied
-to geographical indications for wines and spirits or applications or petitions for those geographical
-indications, the Parties understand nothing shall require a Party to protect or recognise a geographical
-indication of any other Party with respect to products of the vine for which the relevant indication is
-identical with the customary name of a grape variety existing in the territory of that Party. 22 For greater certainty, if the grounds listed in paragraph 1 did not exist in a Party’s law as of the time
-of filing of the request for protection or recognition of a geographical indication under Article 18.31
-(Administrative Procedures for the Protection or Recognition of Geographical Indications), that Party is
-not required to apply those grounds for the purposes of paragraphs 2 or 4 (Grounds of Opposition and
-Cancellation) in relation to that geographical indication.
-Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
-and Consistency
-Subject to Authentication of English, Spanish and French Versions
-18 – 18
+3. No Party shall preclude the possibility that the protection or recognition of a geographical indication may be cancelled, or otherwise cease, on the basis that the protected or recognised term has ceased meeting the conditions upon which the protection or recognition was originally granted in that Party.
+
+===
+
+[^20] A Party is not required to apply this Article to geographical indications for wines and spirits or to applications or petitions for those geographical indications.
+
+[^21] For greater certainty, if a Party provides for the procedures in Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications) and this Article to be applied to geographical indications for wines and spirits or applications or petitions for those geographical indications, the Parties understand nothing shall require a Party to protect or recognise a geographical indication of any other Party with respect to products of the vine for which the relevant indication is identical with the customary name of a grape variety existing in the territory of that Party. 22 For greater certainty, if the grounds listed in paragraph 1 did not exist in a Party’s law as of the time of filing of the request for protection or recognition of a geographical indication under Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications), that Party is not required to apply those grounds for the purposes of paragraphs 2 or 4 (Grounds of Opposition and Cancellation) in relation to that geographical indication.
+
+---
+
 4. If a Party has in place a sui generis system for protecting unregistered
 geographical indications by means of judicial procedures, that Party shall provide that
 its judicial authorities have the authority to deny the protection or recognition of a
