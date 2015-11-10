@@ -2,21 +2,12 @@
 
 ## Article 18.83: Final Provisions
 
-1. Except as otherwise provided in Article 18.10 (Application of Chapter to Existing Subject Matter and Prior Acts) and paragraphs 2, 3 and 4, each Party shall give effect to the provisions of this Chapter on the date of entry into force of this Agreement for that Party.[^159]
+1. Except as otherwise provided in [Article 18.10 (Application of Chapter to Existing Subject Matter and Prior Acts)](section-a.md) and paragraphs 2, 3 and 4, each Party shall give effect to the provisions of this Chapter on the date of entry into force of this Agreement for that Party.[^159]
 
-2. During the relevant periods set out below, a Party shall not amend an existing
-measure or adopt a new measure that is less consistent with its obligations under the
-articles referred to below for that Party than relevant measures that are in effect on the
-date of signature of this Agreement. This Section does not affect the rights and
-obligations of a Party under an international agreement to which it and another Party
-are party.
-3. With respect to works of any Party that avails itself of a transition period
-permitted to it with regard to implementation of Article 18.63 (Term of Protection for
-Copyright and Related Rights) as it relates to the term of copyright protection
-(transition Party), Japan and Mexico shall apply at least the term of protection
-available under the transition Party's domestic law for the relevant works during the
-transition period and apply Article 18.8.1 (National Treatment) with respect to
-copyright term only when that Party fully implements Article 18.63.
+2. During the relevant periods set out below, a Party shall not amend an existing measure or adopt a new measure that is less consistent with its obligations under the articles referred to below for that Party than relevant measures that are in effect on the date of signature of this Agreement. This Section does not affect the rights and obligations of a Party under an international agreement to which it and another Party are party.
+
+3. With respect to works of any Party that avails itself of a transition period permitted to it with regard to implementation of Article 18.63 (Term of Protection for Copyright and Related Rights) as it relates to the term of copyright protection (transition Party), Japan and Mexico shall apply at least the term of protection available under the transition Party's domestic law for the relevant works during the transition period and apply Article 18.8.1 (National Treatment) with respect to copyright term only when that Party fully implements Article 18.63.
+
 4. With regard to obligations subject to a transition period, a Party shall fully
 implement its obligations under the provisions of this Chapter no later than the
 expiration of the relevant time period specified below, which begins on the date of
