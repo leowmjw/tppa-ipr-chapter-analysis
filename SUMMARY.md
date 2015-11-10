@@ -14,7 +14,7 @@
        * [Subsection A: General Patents](section-f/subsection-a.md)
        * [Subsection B: Measures Relating to Agricultural Chemical Products](section-f/subsection-b.md)
        * [Subsection C: Measures Relating to Pharmaceutical Products](section-f/subsection-c.md)
-   * [{Section G: x }]({section_g_x_}.md)
+   * [Section G: Industrial Designs](section-g.md)
    * [{Section H: Enforcement}]({section_h_enforcement}.md)
    * [Annex 18-C](annex-18-C.md)
 * [Related Treaties Referenced](related_treaties_referenced.md)
