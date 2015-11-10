@@ -12,10 +12,6 @@
 
 ## Article 18.56: Improving Industrial Design Systems
 
-The Parties recognise the importance of improving the quality and efficiency of their respective industrial design registration systems, as well as facilitating the
-process of cross-border acquisition of rights in their respective industrial design
-systems, including giving due consideration to ratifying or acceding to the Geneva Act
-of the Hague Agreement Concerning the International Registration of Industrial
-Designs, done at Geneva, July 2, 1999.
+The Parties recognise the importance of improving the quality and efficiency of their respective industrial design registration systems, as well as facilitating the process of cross-border acquisition of rights in their respective industrial design systems, including giving due consideration to ratifying or acceding to the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs, done at Geneva, July 2, 1999.
 
 
