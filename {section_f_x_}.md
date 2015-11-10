@@ -1,2 +1,0 @@
-# {Section F: x }
-
