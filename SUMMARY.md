@@ -15,7 +15,7 @@
        * [Subsection B: Measures Relating to Agricultural Chemical Products](section-f/subsection-b.md)
        * [Subsection C: Measures Relating to Pharmaceutical Products](section-f/subsection-c.md)
    * [Section G: Industrial Designs](section-g.md)
-       * [section-g/trips.md](section-g/trips.md)
+       * [Related References to TRIPS](section-g/trips.md)
    * [Section H: Copyright and Related Rights](section-h.md)
    * [Section I: Enforcement](section-i.md)
    * [Section J: Internet Service Providers](section-j.md)
