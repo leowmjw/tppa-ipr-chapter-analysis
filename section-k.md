@@ -6,7 +6,7 @@
 
 2. During the relevant periods set out below, a Party shall not amend an existing measure or adopt a new measure that is less consistent with its obligations under the articles referred to below for that Party than relevant measures that are in effect on the date of signature of this Agreement. This Section does not affect the rights and obligations of a Party under an international agreement to which it and another Party are party.
 
-3. With respect to works of any Party that avails itself of a transition period permitted to it with regard to implementation of Article 18.63 (Term of Protection for Copyright and Related Rights) as it relates to the term of copyright protection (transition Party), Japan and Mexico shall apply at least the term of protection available under the transition Party's domestic law for the relevant works during the transition period and apply Article 18.8.1 (National Treatment) with respect to copyright term only when that Party fully implements Article 18.63.
+3. With respect to works of any Party that avails itself of a transition period permitted to it with regard to implementation of [Article 18.63 (Term of Protection for Copyright and Related Rights)](section-h.md) as it relates to the term of copyright protection (transition Party), Japan and Mexico shall apply at least the term of protection available under the transition Party's domestic law for the relevant works during the transition period and apply Article 18.8.1 (National Treatment) with respect to copyright term only when that Party fully implements [Article 18.63](section-h.m.
 
 4. With regard to obligations subject to a transition period, a Party shall fully
 implement its obligations under the provisions of this Chapter no later than the
