@@ -87,22 +87,19 @@ If a Party grants protection or recognition to a geographical indication through
     
     (b) make available to the public, on the Internet, details regarding the terms that the Party is considering protecting or recognising through an international agreement involving a Party or a non-party, including specifying whether the protection or recognition is being considered for any translations or transliterations of those terms, and with respect to multi-component terms, specifying the components, if any, for which protection or recognition is being considered, or the components that are disclaimed;
     
-    (c) in respect of opposition procedures, provide a reasonable period of time for interested persons to oppose the protection or recognition of the terms referred to in subparagraph (b). That period shall provide a
+    (c) in respect of opposition procedures, provide a reasonable period of time for interested persons to oppose the protection or recognition of the terms referred to in subparagraph (b). That period shall provide a meaningful opportunity for interested persons to participate in an opposition process; and
+    
+    (d) inform the other Parties of the opportunity to oppose, no later than the commencement of the opposition period.
 
 ===
 
 [^25] For greater certainty, the filing date referred to in this paragraph includes, as applicable, the priority filing date under the [Paris Convention](./section-e/paris-convention.md).
 
-[^26] Each Party shall apply 18.33 (Guidelines for Determining Whether a Term is the Term Customary in the Common Language) and 18.34 (Multi-Component Terms) in determining whether to grant
-protection or recognition of a geographical indication pursuant to this paragraph.
-Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
-and Consistency
-Subject to Authentication of English, Spanish and French Versions
-18 – 20
-meaningful opportunity for interested persons to participate in an
-opposition process; and
-(d) inform the other Parties of the opportunity to oppose, no later than the
-commencement of the opposition period.
+[^26] Each Party shall apply 18.33 (Guidelines for Determining Whether a Term is the Term Customary in the Common Language) and 18.34 (Multi-Component Terms) in determining whether to grant protection or recognition of a geographical indication pursuant to this paragraph.
+Subject to Legal Review in English, Spanish and French for Accuracy, Clarity and Consistency
+
+---
+
 2. In respect of international agreements covered by paragraph 6 that permit the
 protection or recognition of a new geographical indication, a Party shall:27,28
 (a) apply paragraph 1(b);
