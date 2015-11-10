@@ -1,7 +1,5 @@
 # Subsection C: Measures Relating to Pharmaceutical Products
 
-# Missing D, E,F
-
 ## Article 18.48: Patent Term Adjustment for Unreasonable Curtailment
 1. Each Party shall make best efforts to process applications for marketing
 approval of pharmaceutical products in an efficient and timely manner, with a view to
