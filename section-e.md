@@ -50,51 +50,32 @@ procedures referred to in Article 18.31 (Administrative Procedures for the Prote
 
 ---
 
-4. If a Party has in place a sui generis system for protecting unregistered
-geographical indications by means of judicial procedures, that Party shall provide that
-its judicial authorities have the authority to deny the protection or recognition of a
-geographical indication if any of the circumstances identified in paragraph 1 has been
-established.
-23 That Party shall also provide a process that allows interested persons to
-commence a proceeding on the grounds identified in paragraph 1.
-5. If a Party provides protection or recognition of a geographical indication
-through the procedures referred to in Article 18.31 (Administrative Procedures for the
-Protection or Recognition of Geographical Indications) to the translation or
-transliteration of that geographical indication, that Party shall make available
-procedures that are equivalent to, and grounds that are the same as, those referred to
+4. If a Party has in place a sui generis system for protecting unregistered geographical indications by means of judicial procedures, that Party shall provide that its judicial authorities have the authority to deny the protection or recognition of a geographical indication if any of the circumstances identified in paragraph 1 has been established.[^23] That Party shall also provide a process that allows interested persons to commence a proceeding on the grounds identified in paragraph 1.
+
+5. If a Party provides protection or recognition of a geographical indication through the procedures referred to in Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications) to the translation or transliteration of that geographical indication, that Party shall make available procedures that are equivalent to, and grounds that are the same as, those referred to
 in paragraphs 1 and 2 with respect to that translation or transliteration.
-Article 18.33: Guidelines for Determining Whether a Term is the Term
-Customary in the Common Language
-With respect to the procedures in Article 18.31 (Administrative Procedures for
-the Protection or Recognition of Geographical Indications) and Article 18.32
-(Grounds of Opposition and Cancellation), in determining whether a term is the term
-customary in common language as the common name for the relevant good in the
-territory of a Party, that Party’s authorities shall have the authority to take into
-account how consumers understand the term in the territory of that Party. Factors
-relevant to such consumer understanding may include:
-(a) whether the term is used to refer to the type of good in question, as
-indicated by competent sources such as dictionaries, newspapers and
-relevant websites; and
-(b) how the good referenced by the term is marketed and used in trade in
-the territory of that Party.24
-Article 18.34: Multi-Component Terms
-With respect to the procedures in Article 18.31 (Administrative Procedures for
-the Protection or Recognition of Geographical Indications) and Article 18.32
-(Grounds of Opposition and Cancellation), an individual component of a multicomponent
-term that is protected as a geographical indication in the territory of a
- 23 As an alternative to this paragraph, if a Party has in place a sui generis system of the type referred to
-in this paragraph as of the applicable date under Article 18.36.6 (International Agreements), that Party
-shall at least provide that its judicial authorities have the authority to deny the protection or recognition
-of a geographical indication if the circumstances identified in paragraph 1(c) have been established. 24 For the purposes of this subparagraph, a Party’s authorities may take into account, as appropriate,
-whether the term is used in relevant international standards recognised by the Parties to refer to a type
-or class of good in the territory of the Party.
-Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
-and Consistency
-Subject to Authentication of English, Spanish and French Versions
-18 – 19
-Party shall not be protected in that Party if that individual component is a term
-customary in the common language as the common name for the associated good.
-Article 18.35: Date of Protection of a Geographical Indication
+
+## Article 18.33: Guidelines for Determining Whether a Term is the Term Customary in the Common Language
+
+With respect to the procedures in Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications) and Article 18.32 (Grounds of Opposition and Cancellation), in determining whether a term is the term customary in common language as the common name for the relevant good in the territory of a Party, that Party’s authorities shall have the authority to take into account how consumers understand the term in the territory of that Party. Factors relevant to such consumer understanding may include:
+
+    (a) whether the term is used to refer to the type of good in question, as indicated by competent sources such as dictionaries, newspapers and relevant websites; and
+    
+    (b) how the good referenced by the term is marketed and used in trade in the territory of that Party.[^24]
+    
+## Article 18.34: Multi-Component Terms
+
+With respect to the procedures in Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications) and Article 18.32 (Grounds of Opposition and Cancellation), an individual component of a multicomponent term that is protected as a geographical indication in the territory of a Party shall not be protected in that Party if that individual component is a term customary in the common language as the common name for the associated good.
+
+===
+
+[^23] As an alternative to this paragraph, if a Party has in place a sui generis system of the type referred to in this paragraph as of the applicable date under Article 18.36.6 (International Agreements), that Party shall at least provide that its judicial authorities have the authority to deny the protection or recognition of a geographical indication if the circumstances identified in paragraph 1(c) have been established. 
+
+[^24] For the purposes of this subparagraph, a Party’s authorities may take into account, as appropriate, whether the term is used in relevant international standards recognised by the Parties to refer to a type or class of good in the territory of the Party.
+
+---
+
+## Article 18.35: Date of Protection of a Geographical Indication
 If a Party grants protection or recognition to a geographical indication through
 the procedures referred to in Article 18.31 (Administrative Procedures for the
 Protection or Recognition of Geographical Indications), that protection or recognition
