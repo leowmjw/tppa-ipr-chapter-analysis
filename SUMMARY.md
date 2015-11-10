@@ -17,9 +17,9 @@
    * [Section G: Industrial Designs](section-g.md)
    * [Section H: Copyright and Related Rights](section-h.md)
    * [Section I: Enforcement](section-i.md)
+   * Section K: Final Provisions
    * [Section J: Internet Service Providers](section-j.md)
    * [Annex 18-C](annex-18-C.md)
-   * Section K: Final Provisions
 * [Related Treaties Referenced](related_treaties_referenced.md)
    * [Berne Convention](berne_convention.md)
    * [Budapest Treaty](budapest_treaty.md)
