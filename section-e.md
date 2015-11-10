@@ -26,29 +26,18 @@ Article 18.31: Administrative Procedures for the Protection or Recognition of Ge
 ---
 
 ## Article 18.32: Grounds of Opposition and Cancellation20
+
 1. If a Party protects or recognises a geographical indication through the
-procedures referred to in Article 18.31 (Administrative Procedures for the Protection
-or Recognition of Geographical Indications), that Party shall provide procedures that
-allow interested persons to object to the protection or recognition of a geographical
-indication and that allow for any such protection or recognition to be refused or
-otherwise not afforded, at least, on the following grounds:
-(a) the geographical indication is likely to cause confusion with a
-trademark that is the subject of a pre-existing good faith pending
-application or registration in the territory of the Party;
-(b) the geographical indication is likely to cause confusion with a preexisting
-trademark, the rights to which have been acquired in
-accordance with the Party’s law; and
-(c) the geographical indication is a term customary in common language
-as the common name 21 for the relevant good in the territory of the
-Party.
-2. If a Party has protected or recognised a geographical indication through the
-procedures referred to in Article 18.31 (Administrative Procedures for the Protection
-or Recognition of Geographical Indications), that Party shall provide procedures that
-allow for interested persons to seek the cancellation of a geographical indication, and
-that allow for the protection or recognition to be cancelled, at least, on the grounds
-listed in paragraph 1. A Party may provide that the grounds listed in paragraph 1 shall
-apply as of the time of filing the request for protection or recognition of a
-geographical indication in the territory of the Party.22
+procedures referred to in Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications), that Party shall provide procedures that allow interested persons to object to the protection or recognition of a geographical indication and that allow for any such protection or recognition to be refused or otherwise not afforded, at least, on the following grounds:
+
+    (a) the geographical indication is likely to cause confusion with a trademark that is the subject of a pre-existing good faith pending application or registration in the territory of the Party;
+    
+    (b) the geographical indication is likely to cause confusion with a preexisting trademark, the rights to which have been acquired in accordance with the Party’s law; and
+    
+    (c) the geographical indication is a term customary in common language as the common name[^21] for the relevant good in the territory of the Party.
+    
+2. If a Party has protected or recognised a geographical indication through the procedures referred to in Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications), that Party shall provide procedures that allow for interested persons to seek the cancellation of a geographical indication, and that allow for the protection or recognition to be cancelled, at least, on the grounds listed in paragraph 1. A Party may provide that the grounds listed in paragraph 1 shall apply as of the time of filing the request for protection or recognition of a geographical indication in the territory of the Party.[^22]
+
 3. No Party shall preclude the possibility that the protection or recognition of a
 geographical indication may be cancelled, or otherwise cease, on the basis that the
 protected or recognised term has ceased meeting the conditions upon which the
