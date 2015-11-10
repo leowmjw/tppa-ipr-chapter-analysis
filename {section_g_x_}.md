@@ -1,2 +1,0 @@
-# {Section G: x }
-
