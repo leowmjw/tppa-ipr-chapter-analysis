@@ -100,41 +100,35 @@ Subject to Legal Review in English, Spanish and French for Accuracy, Clarity and
 
 ---
 
-2. In respect of international agreements covered by paragraph 6 that permit the
-protection or recognition of a new geographical indication, a Party shall:27,28
-(a) apply paragraph 1(b);
-(b) provide an opportunity for interested persons to comment regarding the
-protection or recognition of the new geographical indication for a
-reasonable period of time before such a term is protected or recognised;
-and
-(c) inform the other Parties of the opportunity to comment, no later than
-the commencement of the period for comment.
-3. For the purposes of this Article, a Party shall not preclude the possibility that
-the protection or recognition of a geographical indication could cease.
-4. For the purposes of this Article, a Party is not required to apply Article 18.32
-(Grounds of Opposition and Cancellation), or obligations equivalent to Article 18.32,
-to geographical indications for wines and spirits or applications for those geographical
-indications.
-5. Protection or recognition provided pursuant to paragraph 1 shall commence no
-earlier than the date on which the agreement enters into force or, if that Party grants
-that protection or recognition on a date after the entry into force of the agreement, on
-that later date.
-6. No Party shall be required to apply this Article to geographical indications that
-have been specifically identified in, and that are protected or recognised pursuant to,
-an international agreement involving a Party or a non-Party, provided that the
-agreement:
-(a) was concluded, or agreed in principle,29 prior to the date of conclusion,
-or agreement in principle, of this Agreement;
- 27 In respect of international agreements covered by paragraph 6 that have geographical indications that
-have been identified, but have not yet received protection or recognition in the territory of the Party
-that is a party to that agreement, that Party may fulfil the obligations of paragraph 2 by complying with
-the obligations of paragraph 1.
-28 A Party may comply with this Article by applying Article 18.31 (Administrative Procedures for the
-Protection or Recognition of Geographical Indications) and Article 18.32 (Grounds of Opposition and
+2. In respect of international agreements covered by paragraph 6 that permit the protection or recognition of a new geographical indication, a Party shall:[^27],[^28]
+
+    (a) apply paragraph 1(b);
+    
+    (b) provide an opportunity for interested persons to comment regarding the protection or recognition of the new geographical indication for a reasonable period of time before such a term is protected or recognised; and
+    
+    (c) inform the other Parties of the opportunity to comment, no later than the commencement of the period for comment.
+    
+3. For the purposes of this Article, a Party shall not preclude the possibility that the protection or recognition of a geographical indication could cease.
+
+4. For the purposes of this Article, a Party is not required to apply Article 18.32 (Grounds of Opposition and Cancellation), or obligations equivalent to Article 18.32, to geographical indications for wines and spirits or applications for those geographical indications.
+
+5. Protection or recognition provided pursuant to paragraph 1 shall commence no earlier than the date on which the agreement enters into force or, if that Party grants that protection or recognition on a date after the entry into force of the agreement, on that later date.
+
+6. No Party shall be required to apply this Article to geographical indications that have been specifically identified in, and that are protected or recognised pursuant to, an international agreement involving a Party or a non-Party, provided that the agreement:
+
+    (a) was concluded, or agreed in principle,[^29] prior to the date of conclusion, or agreement in principle, of this Agreement;
+
+    (b) was ratified by a Party prior to the date of ratification of this Agreement by that Party; or
+    
+    (c) entered into force for a Party prior to the date of entry into force of this Agreement for that Party
+
+====
+
+[^27] In respect of international agreements covered by paragraph 6 that have geographical indications that have been identified, but have not yet received protection or recognition in the territory of the Party that is a party to that agreement, that Party may fulfil the obligations of paragraph 2 by complying with the obligations of paragraph 1.
+
+[^28] A Party may comply with this Article by applying Article 18.31 (Administrative Procedures for the Protection or Recognition of Geographical Indications) and Article 18.32 (Grounds of Opposition and
 Cancellation).
-29 For the purpose of this Article, an agreement “agreed in principle” means an agreement involving
-another government, government entity or international organisation in respect of which a political 
-Subject to Legal Review in English, Spanish and French for Accuracy, Clarity
-and Consistency
-Subject to Authentication of English, Spanish and French Versions
-18 – 21
+
+[^29] For the purpose of this Article, an agreement “agreed in principle” means an agreement involving another government, government entity or international organisation in respect of which a political understanding has been reached and the negotiated outcomes of the agreement have been publically announced.
+
+---
