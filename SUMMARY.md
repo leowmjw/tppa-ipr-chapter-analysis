@@ -13,7 +13,7 @@
    * [Section F: Patents and Undisclosed Test or Other Data](section-f.md)
        * [Subsection A: General Patents](section-f/subsection-a.md)
        * [Subsection B: Measures Relating to Agricultural Chemical Products](section-f/subsection-b.md)
-       * Subsection C: Measures Relating to Pharmaceutical Products
+       * [Subsection C: Measures Relating to Pharmaceutical Products](section-f/subsection-c.md)
    * [{Section G: x }]({section_g_x_}.md)
    * [{Section H: Enforcement}]({section_h_enforcement}.md)
    * [Annex 18-C](annex-18-C.md)
