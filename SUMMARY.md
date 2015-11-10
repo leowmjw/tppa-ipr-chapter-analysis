@@ -10,7 +10,7 @@
    * [Section D](section-d.md)
    * [Section E: Geographical Indications](section-e.md)
        * [References to Paris Convention](section-e/paris-convention.md)
-   * [{Section F: x }]({section_f_x_}.md)
+   * [Section F: Patents and Undisclosed Test or Other Data](section-f.md)
    * [{Section G: x }]({section_g_x_}.md)
    * [{Section H: Enforcement}]({section_h_enforcement}.md)
    * [Annex 18-C](annex-18-C.md)
