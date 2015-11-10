@@ -35,12 +35,9 @@ copyright or related rights, each Party shall provide for a presumption[^102] th
     
 2. In connection with the commencement of a civil, administrative or criminal enforcement proceeding involving a registered trademark that has been substantively examined by its competent authority, each Party shall provide that the trademark be considered prima facie valid.
 
-3. In connection with the commencement of a civil or administrative
-enforcement proceeding involving a patent that has been substantively examined and
-granted104 by the competent authority of a Party, that Party shall provide that each
-claim in the patent be considered prima facie to satisfy the applicable criteria of
-patentability in the territory of the Party.105,106
-Article 18.73: Enforcement Practices with Respect to Intellectual Property
+3. In connection with the commencement of a civil or administrative enforcement proceeding involving a patent that has been substantively examined and granted[^104] by the competent authority of a Party, that Party shall provide that each claim in the patent be considered prima facie to satisfy the applicable criteria of patentability in the territory of the Party.[^105],[^106]
+
+## Article 18.73: Enforcement Practices with Respect to Intellectual Property
 Rights
 1. Each Party shall provide that final judicial decisions and administrative rulings
 of general application pertaining to the enforcement of intellectual property rights:
