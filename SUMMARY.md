@@ -17,8 +17,8 @@
    * [Section G: Industrial Designs](section-g.md)
    * [Section H: Copyright and Related Rights](section-h.md)
    * Section I
-   * [Annex 18-C](annex-18-C.md)
    * Section J
+   * [Annex 18-C](annex-18-C.md)
 * [Related Treaties Referenced](related_treaties_referenced.md)
    * [Berne Convention](berne_convention.md)
    * [Budapest Treaty](budapest_treaty.md)
